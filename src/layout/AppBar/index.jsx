@@ -1,5 +1,5 @@
 import { Outlet } from "react-router-dom";
-import { AppBar, Box, Toolbar, Typography, Button } from "@mui/material";
+import { AppBar, Box, Toolbar, Typography } from "@mui/material";
 
 const MainBar = () => {
   return (
