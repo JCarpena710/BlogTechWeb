@@ -20,6 +20,7 @@ const Home = () => {
 
     return(
         <Container>
+            <h1>Hola!!!</h1>
             <Grid container spacing={3}>
             {users &&
                 users.map((user) => (
